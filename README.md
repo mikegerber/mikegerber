@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [xiangzhang1015/Deep-Learning-for-BCI](https://github.com/xiangzhang1015/Deep-Learning-for-BCI) - Resources for Book: Deep Learning for EEG-based Brain-Computer Interface: Representations, Algorithms and Applications (today)
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (today)
+- [mikegerber/hetzner-dracut-sshd](https://github.com/mikegerber/hetzner-dracut-sshd) - Post-install script for Hetzner&#39;s installimage that installs dracut-sshd to enable remote LUKS unlocking via SSH, on Rocky Linux 10. (today)
 - [eikendev/minigist](https://github.com/eikendev/minigist) - Turn your long Miniflux articles into clear, concise summaries ✍️⚡ (today)
 - [heroheman/rssr](https://github.com/heroheman/rssr) - A frontend for miniflux (today)
-- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (today)
-- [AlgusDark/miniflux.koplugin](https://github.com/AlgusDark/miniflux.koplugin) - KOReader plugin to access a Miniflux instance to read your RSS feed entries with offline capabilities. (today)
-- [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs (today)
