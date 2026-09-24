@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on/I recently contributed to
 
 - [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (today)
 - [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey (2 days ago)
