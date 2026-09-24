@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on/I recently contributed to
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
