@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (1 day ago)
+- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (today)
 - [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey (3 days ago)
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 days ago)
 - [dividuum/nbd-chunk-drive](https://github.com/dividuum/nbd-chunk-drive) - Create and mount block devices efficiently served by static HTTP (5 days ago)
