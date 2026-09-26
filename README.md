@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [vzhou842/cnn-from-scratch](https://github.com/vzhou842/cnn-from-scratch) - A Convolutional Neural Network implemented from scratch (using only numpy) in Python. (today)
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux (1 day ago)
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (1 day ago)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (1 day ago)
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. (1 day ago)
-- [xiangzhang1015/Deep-Learning-for-BCI](https://github.com/xiangzhang1015/Deep-Learning-for-BCI) - Resources for Book: Deep Learning for EEG-based Brain-Computer Interface: Representations, Algorithms and Applications (2 days ago)
