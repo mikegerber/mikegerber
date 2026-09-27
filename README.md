@@ -3,19 +3,19 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (today)
 - [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (today)
 - [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (2 days ago)
 - [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey (5 days ago)
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (5 days ago)
-- [dividuum/nbd-chunk-drive](https://github.com/dividuum/nbd-chunk-drive) - Create and mount block devices efficiently served by static HTTP (1 week ago)
 
 #### 🌱 My latest projects
 
+- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield
 - [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host
 - [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey
 - [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader
 - [mikegerber/hetzner-dracut-sshd](https://github.com/mikegerber/hetzner-dracut-sshd) - Post-install script for Hetzner&#39;s installimage that installs dracut-sshd to enable remote LUKS unlocking via SSH, on Rocky Linux 10.
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository 
 
 
 
