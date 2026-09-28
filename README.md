@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq) - A curated list of awesome jq tools and resources. (today)
 - [mohd-akram/st](https://github.com/mohd-akram/st) - C port of Ken Thompson&#39;s Space Travel (2 days ago)
 - [vzhou842/cnn-from-scratch](https://github.com/vzhou842/cnn-from-scratch) - A Convolutional Neural Network implemented from scratch (using only numpy) in Python. (2 days ago)
 - [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux (3 days ago)
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (3 days ago)
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (3 days ago)
