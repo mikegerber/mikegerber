@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (today)
 - [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (today)
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (today)
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (today)
 - [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (today)
-- [datasette/datasette-otel-viewer](https://github.com/datasette/datasette-otel-viewer) (today)
