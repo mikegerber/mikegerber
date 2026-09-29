@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq) - A curated list of awesome jq tools and resources. (1 day ago)
-- [mohd-akram/st](https://github.com/mohd-akram/st) - C port of Ken Thompson&#39;s Space Travel (3 days ago)
-- [vzhou842/cnn-from-scratch](https://github.com/vzhou842/cnn-from-scratch) - A Convolutional Neural Network implemented from scratch (using only numpy) in Python. (3 days ago)
-- [trunkmaster/nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux (4 days ago)
-- [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (4 days ago)
+- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (today)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (today)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (today)
+- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (today)
+- [datasette/datasette-otel-viewer](https://github.com/datasette/datasette-otel-viewer) (today)
