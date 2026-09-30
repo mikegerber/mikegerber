@@ -3,19 +3,19 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (today)
 - [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (1 day ago)
 - [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (2 days ago)
 - [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (2 days ago)
 - [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (5 days ago)
-- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 week ago)
 
 #### 🌱 My latest projects
 
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli
 - [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx
 - [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield
 - [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host
 - [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey
-- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader
 
 
 
