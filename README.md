@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (today)
-- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (1 day ago)
-- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (2 days ago)
-- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (2 days ago)
-- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (5 days ago)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (1 day ago)
+- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (2 days ago)
+- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (3 days ago)
+- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (3 days ago)
+- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector (today)
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 day ago)
-- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (1 day ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (1 day ago)
+- [rrthomas/mmv](https://github.com/rrthomas/mmv) (1 day ago)
+- [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector (1 day ago)
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 days ago)
+- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (2 days ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 days ago)
