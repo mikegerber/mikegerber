@@ -7,7 +7,7 @@
 - [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (1 day ago)
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (2 days ago)
 - [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (3 days ago)
-- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (4 days ago)
+- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -15,7 +15,7 @@
 - [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile 
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli
 - [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx
-- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield
+- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host
 
 
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [privacyguides/verified-apps-android](https://github.com/privacyguides/verified-apps-android) - An Android app to more easily contribute to our Verified Apps database (today)
+- [hsd1503/resnet1d](https://github.com/hsd1503/resnet1d) - PyTorch implementations of several SOTA backbone deep neural networks (such as ResNet, ResNeXt, RegNet) on one-dimensional (1D) signal/time-series data. (today)
+- [gy910210/rnn-from-scratch](https://github.com/gy910210/rnn-from-scratch) - Implementing Recurrent Neural Network from Scratch (today)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (1 day ago)
 - [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) - A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, tvOS, Web, and Windows (1 day ago)
-- [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide (1 day ago)
-- [rrthomas/mmv](https://github.com/rrthomas/mmv) (2 days ago)
-- [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector (2 days ago)
