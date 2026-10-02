@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile  (today)
-- [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (today)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (1 day ago)
-- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (2 days ago)
-- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (3 days ago)
+- [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile  (1 day ago)
+- [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (1 day ago)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (2 days ago)
+- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (3 days ago)
+- [mikegerber/unshield-rpm](https://github.com/mikegerber/unshield-rpm) - Build Rocky Linux RPMs for unshield (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (today)
-- [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) - A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, tvOS, Web, and Windows (today)
-- [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide (today)
-- [rrthomas/mmv](https://github.com/rrthomas/mmv) (1 day ago)
-- [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector (1 day ago)
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (1 day ago)
+- [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) - A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, tvOS, Web, and Windows (1 day ago)
+- [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide (1 day ago)
+- [rrthomas/mmv](https://github.com/rrthomas/mmv) (2 days ago)
+- [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector (2 days ago)
