@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
 - [privacyguides/verified-apps-android](https://github.com/privacyguides/verified-apps-android) - An Android app to more easily contribute to our Verified Apps database (1 day ago)
 - [hsd1503/resnet1d](https://github.com/hsd1503/resnet1d) - PyTorch implementations of several SOTA backbone deep neural networks (such as ResNet, ResNeXt, RegNet) on one-dimensional (1D) signal/time-series data. (1 day ago)
 - [gy910210/rnn-from-scratch](https://github.com/gy910210/rnn-from-scratch) - Implementing Recurrent Neural Network from Scratch (1 day ago)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (2 days ago)
-- [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) - A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, tvOS, Web, and Windows (2 days ago)
