@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile  (3 days ago)
-- [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (3 days ago)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (4 days ago)
-- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (5 days ago)
-- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (6 days ago)
+- [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile  (4 days ago)
+- [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (4 days ago)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (5 days ago)
+- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (6 days ago)
+- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
-- [privacyguides/verified-apps-android](https://github.com/privacyguides/verified-apps-android) - An Android app to more easily contribute to our Verified Apps database (2 days ago)
-- [hsd1503/resnet1d](https://github.com/hsd1503/resnet1d) - PyTorch implementations of several SOTA backbone deep neural networks (such as ResNet, ResNeXt, RegNet) on one-dimensional (1D) signal/time-series data. (2 days ago)
-- [gy910210/rnn-from-scratch](https://github.com/gy910210/rnn-from-scratch) - Implementing Recurrent Neural Network from Scratch (2 days ago)
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (3 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
+- [privacyguides/verified-apps-android](https://github.com/privacyguides/verified-apps-android) - An Android app to more easily contribute to our Verified Apps database (3 days ago)
+- [hsd1503/resnet1d](https://github.com/hsd1503/resnet1d) - PyTorch implementations of several SOTA backbone deep neural networks (such as ResNet, ResNeXt, RegNet) on one-dimensional (1D) signal/time-series data. (3 days ago)
+- [gy910210/rnn-from-scratch](https://github.com/gy910210/rnn-from-scratch) - Implementing Recurrent Neural Network from Scratch (3 days ago)
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (4 days ago)
