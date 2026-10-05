@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [zhongpeixiang/RGNN](https://github.com/zhongpeixiang/RGNN) - The model for the paper &#34;EEG-Based Emotion Recognition Using Regularized Graph Neural Networks&#34; (today)
+- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code plugin that helps you learn how to build while AI writes the code. (today)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
 - [privacyguides/verified-apps-android](https://github.com/privacyguides/verified-apps-android) - An Android app to more easily contribute to our Verified Apps database (3 days ago)
 - [hsd1503/resnet1d](https://github.com/hsd1503/resnet1d) - PyTorch implementations of several SOTA backbone deep neural networks (such as ResNet, ResNeXt, RegNet) on one-dimensional (1D) signal/time-series data. (3 days ago)
-- [gy910210/rnn-from-scratch](https://github.com/gy910210/rnn-from-scratch) - Implementing Recurrent Neural Network from Scratch (3 days ago)
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem. (4 days ago)
