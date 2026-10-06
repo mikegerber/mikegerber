@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories (today)
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (today)
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (today)
 - [mohammed90/caddy-git-fs](https://github.com/mohammed90/caddy-git-fs) - Virtual filesystem for Caddy using git repo as backend (today)
 - [zhongpeixiang/RGNN](https://github.com/zhongpeixiang/RGNN) - The model for the paper &#34;EEG-Based Emotion Recognition Using Regularized Graph Neural Networks&#34; (1 day ago)
-- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code plugin that helps you learn how to build while AI writes the code. (1 day ago)
