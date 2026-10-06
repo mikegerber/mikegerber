@@ -4,18 +4,18 @@
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (today)
+- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (today)
 - [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (5 days ago)
 - [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile  (5 days ago)
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (6 days ago)
-- [mikegerber/apt-dater-host-rpm](https://github.com/mikegerber/apt-dater-host-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater-host (1 week ago)
 
 #### 🌱 My latest projects
 
+- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater
 - [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt
 - [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile 
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli
-- [mikegerber/dtrx-rpm](https://github.com/mikegerber/dtrx-rpm) - Build Fedora and Rocky Linux RPMs for dtrx
 
 
 
