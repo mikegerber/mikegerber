@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (2 days ago)
-- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (2 days ago)
+- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (3 days ago)
+- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (3 days ago)
 - [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (1 week ago)
 - [mikegerber/muttprofile-rpm](https://github.com/mikegerber/muttprofile-rpm) -  Build Fedora and Rocky Linux RPMs for muttprofile  (1 week ago)
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (1 week ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (1 day ago)
-- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (1 day ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (1 day ago)
-- [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories (2 days ago)
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (2 days ago)
+- [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow. (today)
+- [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (2 days ago)
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (2 days ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (2 days ago)
+- [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories (3 days ago)
