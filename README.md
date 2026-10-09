@@ -21,16 +21,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [🛠️ GHA: Scan for vulnerabilities](https://github.com/mikegerber/rfc2136-dns-container/pull/1) on [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) (today)
 - [📝 Add AGPLv3 license](https://github.com/mikegerber/miniflux-sieve/pull/8) on [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) (2 weeks ago)
 - [docs: Fix link to Git context docs](https://github.com/docker/build-push-action/pull/1627) on [docker/build-push-action](https://github.com/docker/build-push-action) (2 weeks ago)
 - [docs: fix grammar in firewall description](https://github.com/passteque/gluetun/pull/3483) on [passteque/gluetun](https://github.com/passteque/gluetun) (2 weeks ago)
 - [fix typo](https://github.com/dividuum/nbd-chunk-drive/pull/1) on [dividuum/nbd-chunk-drive](https://github.com/dividuum/nbd-chunk-drive) (2 weeks ago)
-- [README: fix some typos](https://github.com/benibr/xpire/pull/6) on [benibr/xpire](https://github.com/benibr/xpire) (2 weeks ago)
 
 #### ⭐ Recent stars
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow. (today)
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (2 days ago)
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (2 days ago)
 - [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (2 days ago)
-- [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories (3 days ago)
