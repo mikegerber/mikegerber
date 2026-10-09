@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [uzaymacar/attention-mechanisms](https://github.com/uzaymacar/attention-mechanisms) - Implementations for a family of attention mechanisms, suitable for all kinds of natural language processing tasks and compatible with TensorFlow 2.0 and Keras. (today)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow. (today)
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (2 days ago)
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (2 days ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (2 days ago)
