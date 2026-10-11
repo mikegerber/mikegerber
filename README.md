@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (2 days ago)
+- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (today)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (5 days ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (5 days ago)
 - [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (1 week ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [Sierkinhane/CRNN_Chinese_Characters_Rec](https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec) - (CRNN) Chinese Characters Recognition. (today)
-- [uzaymacar/attention-mechanisms](https://github.com/uzaymacar/attention-mechanisms) - Implementations for a family of attention mechanisms, suitable for all kinds of natural language processing tasks and compatible with TensorFlow 2.0 and Keras. (2 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
-- [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow. (2 days ago)
-- [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (4 days ago)
+- [liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-) - Deep Residual Shrinkage Networks for Intelligent Fault Diagnosis（pytorch）  深度残差收缩网络应用于故障诊断 (today)
+- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. (today)
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust (today)
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (today)
+- [hunkim/DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll) - TensorFlow Basic Tutorial Labs (today)
