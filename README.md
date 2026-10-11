@@ -31,6 +31,6 @@
 
 - [liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-) - Deep Residual Shrinkage Networks for Intelligent Fault Diagnosis（pytorch）  深度残差收缩网络应用于故障诊断 (today)
 - [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. (today)
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust (today)
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust (today)
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (today)
 - [hunkim/DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll) - TensorFlow Basic Tutorial Labs (today)
