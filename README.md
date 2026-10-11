@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [Sierkinhane/CRNN_Chinese_Characters_Rec](https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec) - (CRNN) Chinese Characters Recognition. (today)
 - [uzaymacar/attention-mechanisms](https://github.com/uzaymacar/attention-mechanisms) - Implementations for a family of attention mechanisms, suitable for all kinds of natural language processing tasks and compatible with TensorFlow 2.0 and Keras. (2 days ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow. (2 days ago)
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (4 days ago)
-- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. (4 days ago)
