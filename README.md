@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [Accesserty/UI-Kit](https://github.com/Accesserty/UI-Kit) - Accesserty UI Kit is a library of web components built with Web Components technology, designed with built-in accessibility semantics, structure, and interaction support by default.  It helps you build interfaces aligned with the principles of information equity, even without knowing the technical details of WCAG. (today)
+- [yaringal/multi-task-learning-example](https://github.com/yaringal/multi-task-learning-example) - A multi-task learning example for the paper https://arxiv.org/abs/1705.07115 (today)
 - [liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-) - Deep Residual Shrinkage Networks for Intelligent Fault Diagnosis（pytorch）  深度残差收缩网络应用于故障诊断 (1 day ago)
 - [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. (1 day ago)
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust (1 day ago)
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (1 day ago)
-- [hunkim/DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll) - TensorFlow Basic Tutorial Labs (1 day ago)
