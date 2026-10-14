@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (1 day ago)
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 day ago)
 - [Accesserty/UI-Kit](https://github.com/Accesserty/UI-Kit) - Accesserty UI Kit is a library of web components built with Web Components technology, designed with built-in accessibility semantics, structure, and interaction support by default.  It helps you build interfaces aligned with the principles of information equity, even without knowing the technical details of WCAG. (2 days ago)
 - [yaringal/multi-task-learning-example](https://github.com/yaringal/multi-task-learning-example) - A multi-task learning example for the paper https://arxiv.org/abs/1705.07115 (2 days ago)
-- [liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-](https://github.com/liguge/Deep-Residual-Shrinkage-Networks-for-intelligent-fault-diagnosis-DRSN-) - Deep Residual Shrinkage Networks for Intelligent Fault Diagnosis（pytorch）  深度残差收缩网络应用于故障诊断 (3 days ago)
