@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (today)
+- [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (today)
 - [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (1 day ago)
 - [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (1 day ago)
 - [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon (1 day ago)
-- [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey (3 days ago)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (3 days ago)
