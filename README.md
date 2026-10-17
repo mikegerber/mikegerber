@@ -3,9 +3,9 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (today)
-- [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup (2 days ago)
-- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (4 days ago)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (1 day ago)
+- [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup (3 days ago)
+- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (5 days ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (1 week ago)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (1 week ago)
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (today)
-- [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (today)
-- [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon (today)
-- [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey (2 days ago)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (2 days ago)
+- [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (1 day ago)
+- [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (1 day ago)
+- [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon (1 day ago)
+- [mikegerber/violentmonkey-userscripts](https://github.com/mikegerber/violentmonkey-userscripts) - Some userscripts I wrote for ViolentMonkey (3 days ago)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (3 days ago)
