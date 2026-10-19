@@ -3,9 +3,9 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (2 days ago)
-- [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup (4 days ago)
-- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (6 days ago)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (3 days ago)
+- [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup (5 days ago)
+- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (1 week ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (1 week ago)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (1 week ago)
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (1 day ago)
-- [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (1 day ago)
-- [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (2 days ago)
-- [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (2 days ago)
-- [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon (2 days ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 days ago)
+- [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (2 days ago)
+- [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (3 days ago)
+- [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (3 days ago)
+- [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon (3 days ago)
