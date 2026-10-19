@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (today)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 days ago)
 - [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (2 days ago)
 - [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (3 days ago)
 - [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (3 days ago)
-- [roehling/postsrsd](https://github.com/roehling/postsrsd) - Postfix Sender Rewriting Scheme daemon (3 days ago)
