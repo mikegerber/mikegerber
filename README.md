@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [Jimmy-7664/STD-MAE](https://github.com/Jimmy-7664/STD-MAE) - [IJCAI-24] Spatial-Temporal-Decoupled Masked Pre-training for Spatiotemporal Forecasting (today)
 - [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (1 day ago)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 days ago)
 - [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (3 days ago)
 - [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (4 days ago)
-- [alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction](https://github.com/alishbaimran/Attention-based-CNN-BiLSTM-Battery-SOH-Prediction) - Attention-based CNN-BiLSTM for SOH prediction of lithium-ion batteries (4 days ago)
