@@ -3,19 +3,19 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (today)
 - [mikegerber/nagios-plugins-check_smart-rpm](https://github.com/mikegerber/nagios-plugins-check_smart-rpm) - Build Fedora and Rocky Linux RPMs for check_smart (1 day ago)
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (4 days ago)
 - [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup (6 days ago)
 - [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (1 week ago)
-- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart
 - [mikegerber/nagios-plugins-check_smart-rpm](https://github.com/mikegerber/nagios-plugins-check_smart-rpm) - Build Fedora and Rocky Linux RPMs for check_smart
 - [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup
 - [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s
-- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater
 
 
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (today)
 - [Jimmy-7664/STD-MAE](https://github.com/Jimmy-7664/STD-MAE) - [IJCAI-24] Spatial-Temporal-Decoupled Masked Pre-training for Spatiotemporal Forecasting (today)
 - [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (1 day ago)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 days ago)
 - [diegolnasc/kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices) - A cookbook with the best practices to working with kubernetes. (3 days ago)
-- [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust (4 days ago)
