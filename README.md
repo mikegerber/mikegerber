@@ -4,10 +4,10 @@
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
 - [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (today)
+- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (today)
+- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (today)
 - [mikegerber/imvirt-rpm](https://github.com/mikegerber/imvirt-rpm) - Build Rocky Linux RPMs for imvirt (1 day ago)
 - [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (1 day ago)
-- [mikegerber/nagios-plugins-check_smart-rpm](https://github.com/mikegerber/nagios-plugins-check_smart-rpm) - Build Fedora and Rocky Linux RPMs for check_smart (3 days ago)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (6 days ago)
 
 #### 🌱 My latest projects
 
