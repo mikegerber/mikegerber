@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [11notes/docker-caddy](https://github.com/11notes/docker-caddy) - Run caddy rootless and distroless. (1 day ago)
-- [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/ (1 day ago)
-- [Skyfay/SkySend](https://github.com/Skyfay/SkySend) - Minimalist, end-to-end encrypted, self-hostable file and note sharing. Zero-knowledge server - files and notes are encrypted in the browser before upload. No accounts, no telemetry, built for speed and security. (2 days ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (2 days ago)
-- [ZhaoZhibin/UDTL](https://github.com/ZhaoZhibin/UDTL) - Source codes for the paper &#34;Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study&#34; published in TIM (2 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (today)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard® (today)
+- [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. (today)
+- [SNBQT/Limited-Data-Rolling-Bearing-Fault-Diagnosis-with-Few-shot-Learning](https://github.com/SNBQT/Limited-Data-Rolling-Bearing-Fault-Diagnosis-with-Few-shot-Learning) - This is the corresponding repository of paper Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning (today)
+- [mikegerber/nagios-plugins-check_smart-rpm](https://github.com/mikegerber/nagios-plugins-check_smart-rpm) - Build Fedora and Rocky Linux RPMs for check_smart (today)
