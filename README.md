@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [rotators/Fo1in2](https://github.com/rotators/Fo1in2) - Fallout 1 to 2 engine conversion (today)
+- [fallout2-ce/fallout2-ce](https://github.com/fallout2-ce/fallout2-ce) - Classic Fallout for modern operating systems (today)
 - [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems (today)
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (1 day ago)
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (2 days ago)
-- [mikegerber/split-the-flac](https://github.com/mikegerber/split-the-flac) - Split (and tag) the FLAC according to the CUE file (2 days ago)
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (2 days ago)
