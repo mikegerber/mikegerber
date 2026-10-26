@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [ajstrongdev/skyWM](https://github.com/ajstrongdev/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy. (today)
-- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (today)
-- [Xiaohan-Chen/few-shot-fault-diagnosis](https://github.com/Xiaohan-Chen/few-shot-fault-diagnosis) - A few shot learning repository for bearing fault diagnosis. (today)
-- [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) - terminal-based remote package update manager (today)
-- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents (today)
+- [stbuehler/apt-dater](https://github.com/stbuehler/apt-dater) - terminal-based remote package update manager (today)
+- [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend for the grommunio distribution. Supports MAPI/HTTP, RPC/HTTP, EWS, IMAP, POP3 protocols, PHP-MAPI bindings, and data import from PST/OST/MSG/CDFV2/TNEF, EML/ICAL/VCF, Zarafa/Kopano, E4A/Kopanion. (today)
+- [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool (today)
+- [oxdc/obsidian-vertical-tabs](https://github.com/oxdc/obsidian-vertical-tabs) - An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience. (today)
+- [tcolgate/exporter_exporter](https://github.com/tcolgate/exporter_exporter) - A reverse proxy designed for Prometheus exporters (today)
