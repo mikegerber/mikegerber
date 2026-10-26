@@ -21,16 +21,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix misspellings of &#34;to be built&#34;](https://github.com/DE-IBH/apt-dater/pull/189) on [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) (today)
 - [🛠️ GHA: Scan for vulnerabilities](https://github.com/mikegerber/rfc2136-dns-container/pull/1) on [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) (2 weeks ago)
 - [📝 Add AGPLv3 license](https://github.com/mikegerber/miniflux-sieve/pull/8) on [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) (1 month ago)
 - [docs: Fix link to Git context docs](https://github.com/docker/build-push-action/pull/1627) on [docker/build-push-action](https://github.com/docker/build-push-action) (1 month ago)
 - [docs: fix grammar in firewall description](https://github.com/passteque/gluetun/pull/3483) on [passteque/gluetun](https://github.com/passteque/gluetun) (1 month ago)
-- [fix typo](https://github.com/dividuum/nbd-chunk-drive/pull/1) on [dividuum/nbd-chunk-drive](https://github.com/dividuum/nbd-chunk-drive) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [rotators/Fo1in2](https://github.com/rotators/Fo1in2) - Fallout 1 to 2 engine conversion (1 day ago)
-- [fallout2-ce/fallout2-ce](https://github.com/fallout2-ce/fallout2-ce) - Classic Fallout for modern operating systems (1 day ago)
-- [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems (1 day ago)
-- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (2 days ago)
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (3 days ago)
+- [ajstrongdev/skyWM](https://github.com/ajstrongdev/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy. (today)
+- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (today)
+- [Xiaohan-Chen/few-shot-fault-diagnosis](https://github.com/Xiaohan-Chen/few-shot-fault-diagnosis) - A few shot learning repository for bearing fault diagnosis. (today)
+- [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) - terminal-based remote package update manager (today)
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents (today)
