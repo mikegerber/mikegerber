@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [unknown321/k8sdoc-epub](https://github.com/unknown321/k8sdoc-epub) - Kubernetes documentation in EPUB (today)
 - [liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) - 基于注意力机制的少量样本故障诊断  pytorch (1 day ago)
 - [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) (1 day ago)
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source skills for designing and reviewing software with AI agents (1 day ago)
 - [stbuehler/apt-dater](https://github.com/stbuehler/apt-dater) - terminal-based remote package update manager (2 days ago)
-- [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend for the grommunio distribution. Supports MAPI/HTTP, RPC/HTTP, EWS, IMAP, POP3 protocols, PHP-MAPI bindings, and data import from PST/OST/MSG/CDFV2/TNEF, EML/ICAL/VCF, Zarafa/Kopano, E4A/Kopanion. (2 days ago)
