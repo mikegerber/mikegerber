@@ -21,16 +21,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Feat/test nix build](https://github.com/mikegerber/git-annex-duplicates/pull/11) on [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) (today)
 - [Fix misspellings of &#34;to be built&#34;](https://github.com/DE-IBH/apt-dater/pull/189) on [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) (3 days ago)
 - [🛠️ GHA: Scan for vulnerabilities](https://github.com/mikegerber/rfc2136-dns-container/pull/1) on [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) (2 weeks ago)
 - [📝 Add AGPLv3 license](https://github.com/mikegerber/miniflux-sieve/pull/8) on [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) (1 month ago)
 - [docs: Fix link to Git context docs](https://github.com/docker/build-push-action/pull/1627) on [docker/build-push-action](https://github.com/docker/build-push-action) (1 month ago)
-- [docs: fix grammar in firewall description](https://github.com/passteque/gluetun/pull/3483) on [passteque/gluetun](https://github.com/passteque/gluetun) (1 month ago)
 
 #### ⭐ Recent stars
 
+- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) (today)
 - [unknown321/k8sdoc-epub](https://github.com/unknown321/k8sdoc-epub) - Kubernetes documentation in EPUB (1 day ago)
 - [liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) - 基于注意力机制的少量样本故障诊断  pytorch (2 days ago)
 - [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) (2 days ago)
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source skills for designing and reviewing software with AI agents (2 days ago)
-- [stbuehler/apt-dater](https://github.com/stbuehler/apt-dater) - terminal-based remote package update manager (3 days ago)
