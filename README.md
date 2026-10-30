@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use (today)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode &#43; More (today)
 - [gmarty/DVD.js](https://github.com/gmarty/DVD.js) - Playing DVD in JavaScript for the sake of interoperability (today)
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) (1 day ago)
 - [unknown321/k8sdoc-epub](https://github.com/unknown321/k8sdoc-epub) - Kubernetes documentation in EPUB (2 days ago)
-- [liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) - 基于注意力机制的少量样本故障诊断  pytorch (3 days ago)
-- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) (3 days ago)
