@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [lankuohsing/Remaining-Useful-Life-Prediction-RNN](https://github.com/lankuohsing/Remaining-Useful-Life-Prediction-RNN) - Remaining Useful Life Prediction Using RNN/LSTM/GRU Neural Networks (today)
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (today)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (today)
 - [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use (1 day ago)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode &#43; More (1 day ago)
-- [gmarty/DVD.js](https://github.com/gmarty/DVD.js) - Playing DVD in JavaScript for the sake of interoperability (1 day ago)
-- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) (2 days ago)
-- [unknown321/k8sdoc-epub](https://github.com/unknown321/k8sdoc-epub) - Kubernetes documentation in EPUB (3 days ago)
