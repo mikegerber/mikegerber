@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (2 days ago)
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (3 days ago)
 - [mikegerber/split-the-flac](https://github.com/mikegerber/split-the-flac) - Split (and tag) the FLAC according to the CUE file (1 week ago)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (1 week ago)
 - [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (1 week ago)
@@ -21,16 +21,16 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feat/test nix build](https://github.com/mikegerber/git-annex-duplicates/pull/11) on [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) (2 days ago)
-- [Fix misspellings of &#34;to be built&#34;](https://github.com/DE-IBH/apt-dater/pull/189) on [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) (5 days ago)
+- [Feat/test nix build](https://github.com/mikegerber/git-annex-duplicates/pull/11) on [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) (3 days ago)
+- [Fix misspellings of &#34;to be built&#34;](https://github.com/DE-IBH/apt-dater/pull/189) on [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) (6 days ago)
 - [🛠️ GHA: Scan for vulnerabilities](https://github.com/mikegerber/rfc2136-dns-container/pull/1) on [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) (3 weeks ago)
 - [📝 Add AGPLv3 license](https://github.com/mikegerber/miniflux-sieve/pull/8) on [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) (1 month ago)
 - [docs: Fix link to Git context docs](https://github.com/docker/build-push-action/pull/1627) on [docker/build-push-action](https://github.com/docker/build-push-action) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android (today)
-- [lankuohsing/Remaining-Useful-Life-Prediction-RNN](https://github.com/lankuohsing/Remaining-Useful-Life-Prediction-RNN) - Remaining Useful Life Prediction Using RNN/LSTM/GRU Neural Networks (today)
-- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (today)
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (today)
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use (1 day ago)
+- [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt (today)
+- [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android (1 day ago)
+- [lankuohsing/Remaining-Useful-Life-Prediction-RNN](https://github.com/lankuohsing/Remaining-Useful-Life-Prediction-RNN) - Remaining Useful Life Prediction Using RNN/LSTM/GRU Neural Networks (1 day ago)
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (1 day ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 day ago)
