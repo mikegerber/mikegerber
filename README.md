@@ -3,19 +3,19 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (today)
 - [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (5 days ago)
 - [mikegerber/split-the-flac](https://github.com/mikegerber/split-the-flac) - Split (and tag) the FLAC according to the CUE file (1 week ago)
-- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (1 week ago)
 - [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges (1 week ago)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (1 week ago)
+- [mikegerber/nagios-plugins-check_smart-rpm](https://github.com/mikegerber/nagios-plugins-check_smart-rpm) - Build Fedora and Rocky Linux RPMs for check_smart (1 week ago)
 
 #### 🌱 My latest projects
 
+- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit 
 - [mikegerber/split-the-flac](https://github.com/mikegerber/split-the-flac) - Split (and tag) the FLAC according to the CUE file
 - [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart
 - [mikegerber/nagios-plugins-check_smart-rpm](https://github.com/mikegerber/nagios-plugins-check_smart-rpm) - Build Fedora and Rocky Linux RPMs for check_smart
 - [mikegerber/automysqlbackup-rpm](https://github.com/mikegerber/automysqlbackup-rpm) - Build Fedora and Rocky Linux RPMs for automysqlbackup
-- [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) - Run RFC 2136 dynamic DNS zones, for dynamic IP home connections or ACME DNS-01 challenges
 
 
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.  (1 day ago)
-- [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt (2 days ago)
-- [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android (3 days ago)
-- [lankuohsing/Remaining-Useful-Life-Prediction-RNN](https://github.com/lankuohsing/Remaining-Useful-Life-Prediction-RNN) - Remaining Useful Life Prediction Using RNN/LSTM/GRU Neural Networks (3 days ago)
-- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents (3 days ago)
+- [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy (today)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (today)
+- [chnsh/DCRNN_PyTorch](https://github.com/chnsh/DCRNN_PyTorch) - Diffusion Convolutional Recurrent Neural Network Implementation in PyTorch (today)
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (today)
+- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (today)
