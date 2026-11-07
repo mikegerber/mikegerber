@@ -3,9 +3,9 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) - Run a Nagios passive check and submit its result via the Nagios CGI (1 day ago)
-- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (1 day ago)
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (1 day ago)
+- [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) - Run a Nagios passive check and submit its result via the Nagios CGI (2 days ago)
+- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (2 days ago)
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (2 days ago)
 - [mikegerber/split-the-flac](https://github.com/mikegerber/split-the-flac) - Split (and tag) the FLAC according to the CUE file (2 weeks ago)
 - [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (2 weeks ago)
 
@@ -21,7 +21,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [⬆️ Switch to pyproject.toml](https://github.com/mikegerber/run-nagios-passive-check-and-submit/pull/1) on [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) (1 day ago)
+- [⬆️ Switch to pyproject.toml](https://github.com/mikegerber/run-nagios-passive-check-and-submit/pull/1) on [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) (2 days ago)
 - [Feat/test nix build](https://github.com/mikegerber/git-annex-duplicates/pull/11) on [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) (1 week ago)
 - [Fix misspellings of &#34;to be built&#34;](https://github.com/DE-IBH/apt-dater/pull/189) on [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) (1 week ago)
 - [🛠️ GHA: Scan for vulnerabilities](https://github.com/mikegerber/rfc2136-dns-container/pull/1) on [mikegerber/rfc2136-dns-container](https://github.com/mikegerber/rfc2136-dns-container) (4 weeks ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 day ago)
-- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales (1 day ago)
-- [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows (1 day ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (2 days ago)
+- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales (2 days ago)
+- [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows (2 days ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 days ago)
