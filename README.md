@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (today)
+- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (today)
+- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (today)
 - [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) - Run a Nagios passive check and submit its result via the Nagios CGI (2 days ago)
-- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (2 days ago)
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (2 days ago)
 - [mikegerber/split-the-flac](https://github.com/mikegerber/split-the-flac) - Split (and tag) the FLAC according to the CUE file (2 weeks ago)
-- [mikegerber/leo-cli-rpm](https://github.com/mikegerber/leo-cli-rpm) - Build Fedora and Rocky Linux RPMs for leo-cli (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [Jubstaaa/auto-watch](https://github.com/Jubstaaa/auto-watch) - Watch every repo you own or administer as soon as it is created, the way GitHub used to. (today)
+- [katorlys/auto-watch-repository](https://github.com/katorlys/auto-watch-repository) - A userscript to automatically watch your repositories and your newly created repositories on GitHub. (today)
+- [liyaguang/DCRNN](https://github.com/liyaguang/DCRNN) - Implementation of Diffusion Convolutional Recurrent Neural Network in Tensorflow (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (2 days ago)
-- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales (2 days ago)
-- [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows (2 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 days ago)
