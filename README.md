@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (today)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (1 day ago)
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (2 days ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (2 days ago)
 - [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (2 days ago)
 - [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) - Run a Nagios passive check and submit its result via the Nagios CGI (4 days ago)
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps. (today)
+- [sourcery-ai/sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery (today)
+- [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake (today)
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub (1 day ago)
 - [epfml/OptML_course](https://github.com/epfml/OptML_course) - EPFL Course - Optimization for Machine Learning - CS-439 (1 day ago)
-- [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) - Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites (1 day ago)
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (1 day ago)
-- [ritchieng/deep-learning-wizard](https://github.com/ritchieng/deep-learning-wizard) - Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, Apptainer, and more. (1 day ago)
