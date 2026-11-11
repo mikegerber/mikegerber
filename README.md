@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [elektrobohemian/cybertqdm](https://github.com/elektrobohemian/cybertqdm) - A wrapper around tqdm that displays progress on an e-ink display connected over USB (today)
 - [meta/astryx](https://github.com/meta/astryx) - An open source design system that&#39;s fully customizable and agent ready (today)
 - [MengzhangLI/STFGNN](https://github.com/MengzhangLI/STFGNN) - Code of STFGNN@AAAI-2021 (Spatial-Temporal/ Traffic data forecasting) (today)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 day ago)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 day ago)
-- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps. (2 days ago)
