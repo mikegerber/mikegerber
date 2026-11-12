@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [dbalsom/martypc](https://github.com/dbalsom/martypc) - A cycle-accurate IBM PC/XT/Jr/Tandy emulator (today)
+- [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢 (today)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (1 day ago)
 - [nnzhan/MTGNN](https://github.com/nnzhan/MTGNN) (1 day ago)
 - [elektrobohemian/cybertqdm](https://github.com/elektrobohemian/cybertqdm) - A wrapper around tqdm that displays progress on an e-ink display connected over USB (1 day ago)
-- [meta/astryx](https://github.com/meta/astryx) - An open source design system that&#39;s fully customizable and agent ready (1 day ago)
-- [MengzhangLI/STFGNN](https://github.com/MengzhangLI/STFGNN) - Code of STFGNN@AAAI-2021 (Spatial-Temporal/ Traffic data forecasting) (1 day ago)
