@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [RecipeMD/recipemd-extract](https://github.com/RecipeMD/recipemd-extract) - command line utility to scrape recipe websites (today)
+- [RecipeMD/RecipeMD](https://github.com/RecipeMD/RecipeMD) - Markdown recipe format and cli tool (today)
 - [dbalsom/martypc](https://github.com/dbalsom/martypc) - A cycle-accurate IBM PC/XT/Jr/Tandy emulator (1 day ago)
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢 (1 day ago)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (2 days ago)
-- [nnzhan/MTGNN](https://github.com/nnzhan/MTGNN) (2 days ago)
-- [elektrobohemian/cybertqdm](https://github.com/elektrobohemian/cybertqdm) - A wrapper around tqdm that displays progress on an e-ink display connected over USB (2 days ago)
