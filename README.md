@@ -3,10 +3,10 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (today)
 - [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (4 days ago)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (6 days ago)
 - [mikegerber/hetzner-dracut-sshd](https://github.com/mikegerber/hetzner-dracut-sshd) - Post-install script for Hetzner&#39;s installimage that installs dracut-sshd to enable remote LUKS unlocking via SSH, on Rocky Linux 10. (6 days ago)
-- [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (1 week ago)
 - [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (1 week ago)
 
 #### 🌱 My latest projects
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [dsp/yubikey-kube-proxy](https://github.com/dsp/yubikey-kube-proxy) - A local proxy for Kubernetes authentication using YubiKey PIV (today)
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (today)
 - [RecipeMD/recipemd-extract](https://github.com/RecipeMD/recipemd-extract) - command line utility to scrape recipe websites (3 days ago)
 - [RecipeMD/RecipeMD](https://github.com/RecipeMD/RecipeMD) - Markdown recipe format and cli tool (3 days ago)
 - [dbalsom/martypc](https://github.com/dbalsom/martypc) - A cycle-accurate IBM PC/XT/Jr/Tandy emulator (4 days ago)
-- [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢 (4 days ago)
