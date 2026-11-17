@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [dsp/yubikey-kube-proxy](https://github.com/dsp/yubikey-kube-proxy) - A local proxy for Kubernetes authentication using YubiKey PIV (1 day ago)
-- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (1 day ago)
-- [RecipeMD/recipemd-extract](https://github.com/RecipeMD/recipemd-extract) - command line utility to scrape recipe websites (4 days ago)
-- [RecipeMD/RecipeMD](https://github.com/RecipeMD/RecipeMD) - Markdown recipe format and cli tool (4 days ago)
-- [dbalsom/martypc](https://github.com/dbalsom/martypc) - A cycle-accurate IBM PC/XT/Jr/Tandy emulator (5 days ago)
+- [nnzhan/Graph-WaveNet](https://github.com/nnzhan/Graph-WaveNet) - graph wavenet (today)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity &#43; infrastructure attack matrices. (today)
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0) (today)
+- [sunxiaobei/awesome-attention-based-gnns](https://github.com/sunxiaobei/awesome-attention-based-gnns) - Attention-based graph neural networks: a survey (today)
