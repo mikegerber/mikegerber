@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (today)
 - [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (1 day ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (3 days ago)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (1 week ago)
 - [mikegerber/hetzner-dracut-sshd](https://github.com/mikegerber/hetzner-dracut-sshd) - Post-install script for Hetzner&#39;s installimage that installs dracut-sshd to enable remote LUKS unlocking via SSH, on Rocky Linux 10. (1 week ago)
-- [mikegerber/run-nagios-passive-check-and-submit-rpm](https://github.com/mikegerber/run-nagios-passive-check-and-submit-rpm) -  Build Fedora and Rocky Linux RPMs for run-nagios-passive-check-and-submit  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -21,11 +21,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [🤖 GHA: Build on Fedora 45, update Fedora targets](https://github.com/mikegerber/needrestart-rpm/pull/5) on [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) (today)
 - [🎨 GHA: Make matrix targets an env variable](https://github.com/mikegerber/apt-dater-rpm/pull/3) on [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) (1 week ago)
 - [🧹 Build from cwd to make repo files accessible](https://github.com/mikegerber/apt-dater-rpm/pull/2) on [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) (1 week ago)
 - [⬆️ Switch to pyproject.toml](https://github.com/mikegerber/run-nagios-passive-check-and-submit/pull/1) on [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) (2 weeks ago)
 - [Feat/test nix build](https://github.com/mikegerber/git-annex-duplicates/pull/11) on [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) (3 weeks ago)
-- [Fix misspellings of &#34;to be built&#34;](https://github.com/DE-IBH/apt-dater/pull/189) on [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) (3 weeks ago)
 
 #### ⭐ Recent stars
 
