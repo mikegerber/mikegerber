@@ -3,9 +3,9 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (today)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (2 days ago)
 - [mikegerber/cbr2cbz](https://github.com/mikegerber/cbr2cbz) - Convert comic book archives from CBR to CBZ (2 days ago)
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (3 days ago)
 - [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (5 days ago)
 - [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (2 weeks ago)
 
@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
-- [mikegerber/cbr2cbz](https://github.com/mikegerber/cbr2cbz) - Convert comic book archives from CBR to CBZ (2 days ago)
-- [nnzhan/Graph-WaveNet](https://github.com/nnzhan/Graph-WaveNet) - graph wavenet (1 week ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity &#43; infrastructure attack matrices. (1 week ago)
-- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0) (1 week ago)
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC (today)
+- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具） (today)
+- [huggingface/pybot](https://github.com/huggingface/pybot) - PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules. (today)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (today)
