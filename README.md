@@ -29,8 +29,8 @@
 
 #### ⭐ Recent stars
 
+- [pp5x/armref](https://github.com/pp5x/armref) - Generate a searchable Arm reference website from Arm XML bundles (today)
 - [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC (1 day ago)
 - [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具） (1 day ago)
 - [huggingface/pybot](https://github.com/huggingface/pybot) - PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules. (1 day ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 day ago)
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 day ago)
