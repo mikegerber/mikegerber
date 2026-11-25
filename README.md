@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (1 day ago)
+- [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (today)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (3 days ago)
 - [mikegerber/cbr2cbz](https://github.com/mikegerber/cbr2cbz) - Convert comic book archives from CBR to CBZ (3 days ago)
 - [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (6 days ago)
