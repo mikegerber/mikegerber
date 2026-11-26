@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
+- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (today)
 - [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (1 day ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (4 days ago)
 - [mikegerber/cbr2cbz](https://github.com/mikegerber/cbr2cbz) - Convert comic book archives from CBR to CBZ (4 days ago)
 - [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) - Build Fedora and Rocky Linux RPMs for needrestart (1 week ago)
-- [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) - Build Fedora and Rocky Linux RPMs for apt-dater (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -21,11 +21,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [🐛 Don&#39;t silently ignore unknown fields](https://github.com/mikegerber/miniflux-sieve/pull/17) on [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) (today)
 - [🤖 GHA: Build on Fedora 45, update Fedora targets](https://github.com/mikegerber/needrestart-rpm/pull/5) on [mikegerber/needrestart-rpm](https://github.com/mikegerber/needrestart-rpm) (1 week ago)
 - [🎨 GHA: Make matrix targets an env variable](https://github.com/mikegerber/apt-dater-rpm/pull/3) on [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) (2 weeks ago)
 - [🧹 Build from cwd to make repo files accessible](https://github.com/mikegerber/apt-dater-rpm/pull/2) on [mikegerber/apt-dater-rpm](https://github.com/mikegerber/apt-dater-rpm) (2 weeks ago)
 - [⬆️ Switch to pyproject.toml](https://github.com/mikegerber/run-nagios-passive-check-and-submit/pull/1) on [mikegerber/run-nagios-passive-check-and-submit](https://github.com/mikegerber/run-nagios-passive-check-and-submit) (3 weeks ago)
-- [Feat/test nix build](https://github.com/mikegerber/git-annex-duplicates/pull/11) on [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) (4 weeks ago)
 
 #### ⭐ Recent stars
 
