@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on/I recently contributed to
 
-- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (1 day ago)
+- [mikegerber/miniflux-sieve](https://github.com/mikegerber/miniflux-sieve) - Mark unwanted entries read in your Miniflux RSS reader (today)
 - [mikegerber/git-annex-duplicates](https://github.com/mikegerber/git-annex-duplicates) -  Find duplicate files in a git-annex repository  (2 days ago)
 - [mikegerber/k3s-rpm](https://github.com/mikegerber/k3s-rpm) - Build Rocky Linux RPMs for k3s (5 days ago)
 - [mikegerber/cbr2cbz](https://github.com/mikegerber/cbr2cbz) - Convert comic book archives from CBR to CBZ (5 days ago)
